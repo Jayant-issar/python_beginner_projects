@@ -1,3 +1,4 @@
+#this program claculates the tip you want to give 
 print('welcome to tip calculator')
 total_bill = input('whats your total bill? \n')
 tip = input('what percent of tip would you like to give? \n')
